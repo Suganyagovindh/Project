@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hellosugan!</h2>
+<h2>sugan!</h2>
 </body>
 </html>
